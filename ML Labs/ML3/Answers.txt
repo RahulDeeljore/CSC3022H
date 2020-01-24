@@ -1,0 +1,15 @@
+
+4 training examples given in the brief.
+
+{"Sunny", "Warm", "Normal", "Strong", "Warm", "Same", "Yes"} 
+{"Sunny", "Warm", "High", "Strong", "Warm", "Same", "Yes"}
+{"Rainy", "Cold", "High", "Strong", "Warm", "Change", "No"}
+{"Sunny", "Warm", "High", "Strong", "Cool", "Change", "Yes"}
+
+1 Additional training example
+{"Sunny", "Warm", "High", "Weak", "Cool", "Change", "Yes"}
+
+The 5 above training examples in order were used to learn the target concept:
+
+ <"Sunny", "Warm", ?, ?, ?, ?>
+

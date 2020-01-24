@@ -1,0 +1,17 @@
+1.
+
+It takes 5 iterations for the value iteration algorithm to converge.
+
+| 51.2 ||   64 ||    0 |
+========================
+|   64 ||   80 ||  100 |
+========================
+
+2.
+
+S1 --> S2 --> S5 --> S6 --> S3 
+
+3.
+
+Yes.The reward function for the 2 states that were given (50 and 100) for the 2 states leading to S3,
+you can change these such that they are still greater than 0 and the optimal policy would remain unchanged.

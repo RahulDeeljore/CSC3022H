@@ -1,0 +1,41 @@
+Q1.
+
+Starting Candidate elimination algorithm.
+
+h0 = <0 0 0 0 0 >
+h0 = <? ? ? ? ? >
+
+h1 = <Japan Honda White 1990 Sports >
+g1 = <? ? ? ? ? >
+
+
+h2 = <Japan ? ? ? Sports >
+g2 = <? ? ? ? ? >
+
+
+h3 = <Japan ? ? ? Sports >
+g3 = <? ? ? ? ? >
+<? ? ? ? Sports >
+
+
+h4 = <Japan ? ? ? Sports >
+g4 = <? ? ? ? ? >
+<Japan ? ? ? Sports >
+
+
+End.
+
+
+Training examples used:
+
+{"Japan", "Honda", "White", "1990", "Sports", "Positive"};   
+{"Japan", "Toyota", "Blue", "1980", "Sports", "Positive"};   
+{"Japan", "Chrysler", "Green", "1970", "Economy", "Negative"};   
+{"USA", "Toyota", "Red", "1980", "Sports", "Negative"};   
+
+
+
+
+Q2.
+
+A minimum of 4 training examples are needed.

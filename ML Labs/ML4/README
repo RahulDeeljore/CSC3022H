@@ -1,0 +1,9 @@
+ML lab 4
+
+Type make to compile and make run to run the program.
+Answers to the questions are in the Answers.txt file.
+
+Note:
+
+When printing out the general hypothesis, it always prints out a <?,?,?,?,?> as part of the generic hypothesis. Technically isn't it always one of the generic hypothesis? 
+Anyway, it is harmless and surely not worth deducting marks for,right? :DDD

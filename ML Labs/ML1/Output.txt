@@ -1,0 +1,16 @@
+Eigenvalues:
+PC 1: 154.311
+PC 2: 9.16295
+
+Eigenvectors:
+PC 1: 0.939141(Jan) -0.343532(July)
+PC 2: 0.343532(Jan) 0.939141(July)
+
+Covariance Matrix:
+137.181  46.8283
+46.8283  26.2925
+
+Total Variance: 163.474
+
+PC 1 explains: 94.3949%
+PC 2 explains: 5.60516%

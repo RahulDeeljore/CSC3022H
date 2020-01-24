@@ -1,0 +1,30 @@
+1.
+
+It takes a minimum of 2 perceptrons to solve the XOR problem. 
+Use the output of the first as input along with the initial input data.
+
+2.
+
+12 training examples were needed.
+
+AND data            
+
+{0, 0, 0}
+{0, 1, 0}
+{1, 0, 0}
+{1, 1, 1}
+
+OR data
+
+{0, 0, 0}
+{0, 1, 1}
+{1, 0, 1}
+{1, 1, 1}
+
+XOR data
+
+{0, 0, 0}
+{1, 0, 1}
+{0, 1, 1}
+{1, 1, 0}
+

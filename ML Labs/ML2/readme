@@ -1,0 +1,7 @@
+Type make to compile and make run to run.
+
+When the program runs, it outputs the values in the text file but since that file has already been included as stipulated in the assignment brief, running the program will output the values below the initial values. Just wanted to clarify that if there is any confusion.
+
+So, You might want to delete the output.txt if you will run the program.
+
+Thanks.
