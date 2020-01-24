@@ -1,0 +1,2 @@
+Type g++ session.cpp -o session --std=c++11 to compile
+type ./session to run
