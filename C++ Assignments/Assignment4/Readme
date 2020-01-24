@@ -1,0 +1,13 @@
+Type Make to compile the files
+Type imageops <option> OutputImageName.pgm
+
+Where option can be
+1. -a <Image1.pgm> <Image2.pgm> (add both images)
+2. -s <Image1.pgm> <Image2.pgm> (subtract image2 from image1)
+3. -i <Image1.pgm> (invert Image1)
+4. -l <Image1.pgm> <Image2.pgm> (mask image1 with image2)
+5. -t <image1.pgm> f (threshold Image1 with integer value f)
+
+Note: Must add .pgm to all file names
+
+Type make clean to remove all Binaries.
